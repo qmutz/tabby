@@ -33,7 +33,7 @@
     "keytar": "^7.7.0",
     "mz": "^2.7.0",
     "native-process-working-directory": "^1.0.2",
-    "ngx-toastr": "^14.0.0",
+    "ngx-toastr": "^14.3.0",
     "node-pty": "^0.10.1",
     "npm": "6",
     "rxjs": "^7.2.0",
